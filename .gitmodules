@@ -1,0 +1,9 @@
+[submodule "blog"]
+	path = blog
+	url = git@github.com:kushdilip/blog.git
+[submodule "kushdilip.github.io"]
+	path = kushdilip.github.io
+	url = git@github.com:kushdilip/kushdilip.github.io.git
+[submodule "lunchbill-angular"]
+	path = lunchbill-angular
+	url = git@github.com:kushdilip/lunchbill-angular.git
